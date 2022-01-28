@@ -34,7 +34,7 @@ Wisconsin,728,506,53,0.586,132,1287,Big Ten
 Fresno State,626,438,27,0.586,99,1091,Mountain West
 UCLA,620,437,37,0.584,102,1094,Pac-12
 Georgia Tech?7,744,527,43,0.583,128,1314,ACC
-BYU,603,431,26,0.581,96,1060,Independent
+Brigham Young,603,431,26,0.581,96,1060,Independent
 Arkansas,729,525,40,0.579,127,1294,SEC
 Stanford,664,478,49,0.578,114,1191,Pac-12
 Southern Miss,600,436,26,0.577,103,1062,C-USA
@@ -55,18 +55,18 @@ North Carolina?8,712,559,54,0.558,130,1325,ACC
 Arizona,618,489,33,0.557,117,1140,Pac-12
 Western Michigan,588,466,24,0.557,115,1078,MAC
 Toledo,560,444,24,0.556,100,1028,MAC
-UCF,278,222,1,0.556,42,501,The American
+Central Florida,278,222,1,0.556,42,501,The American
 Navy,729,585,57,0.553,140,1371,The American
 Texas Tech,582,470,32,0.552,96,1084,Big 12
 Air Force,414,335,13,0.552,65,762,Mountain West
 California,682,554,51,0.55,125,1287,Pac-12
 Tulsa,638,519,27,0.55,121,1183,The American
-Ole Miss?9,656,540,35,0.547,126,1231,SEC
+Mississippi,656,540,35,0.547,126,1231,SEC
 Hawaii,575,474,25,0.547,104,1074,Mountain West
 Houston,460,381,15,0.546,75,856,The American
 Missouri,694,581,52,0.543,130,1327,SEC
 Iowa,675,567,39,0.542,132,1281,Big Ten
-TCU,667,565,57,0.54,124,1289,Big 12
+Texas Christian,667,565,57,0.54,124,1289,Big 12
 South Florida,160,137,0,0.539,24,297,The American
 Northern Illinois,601,512,51,0.538,119,1164,MAC
 Nevada,565,496,33,0.532,113,1094,Mountain West
@@ -80,7 +80,7 @@ Maryland,654,608,43,0.518,127,1305,Big Ten
 Cincinnati,634,593,51,0.516,132,1278,The American
 Purdue,620,579,48,0.516,132,1247,Big Ten
 Ball State,461,434,32,0.515,95,927,MAC
-NC State,612,587,55,0.51,128,1254,ACC
+North Carolina State,612,587,55,0.51,128,1254,ACC
 Baylor,609,584,44,0.51,118,1237,Big 12
 South Carolina,615,594,44,0.508,126,1253,SEC
 Ohio,580,568,48,0.505,124,1196,MAC
@@ -96,26 +96,24 @@ Arkansas State?10,485,499,37,0.493,105,1021,Sun Belt
 Duke,518,538,31,0.491,107,1087,ACC
 Vanderbilt,609,638,50,0.489,130,1297,SEC
 Mississippi State,565,592,39,0.489,120,1196,SEC
-Louisiana,540,565,34,0.489,118,1139,Sun Belt
+Louisiana-Lafayette,540,565,34,0.489,118,1139,Sun Belt
 San Jose State,498,521,38,0.489,102,1057,Mountain West
 Massachusetts,575,608,50,0.487,137,1233,Independent
 Akron,524,563,36,0.483,119,1123,MAC
 Wyoming,542,583,28,0.482,123,1153,Mountain West
-SMU,507,547,54,0.482,103,1108,The American
-UAB,152,169,2,0.474,27,323,C-USA
+Southern Methodist,507,547,54,0.482,103,1108,The American
+Alabama at Birmingham,152,169,2,0.474,27,323,C-USA
 Kansas,588,658,58,0.473,130,1304,Big 12
 Colorado State,528,591,33,0.473,121,1152,Mountain West
-UConn,511,582,38,0.469,121,1131,Independent
 Oregon State,539,615,50,0.468,123,1204,Pac-12
 Iowa State,548,658,46,0.456,128,1252,Big 12
 Kansas State,543,657,42,0.454,124,1242,Big 12
 Tulane,540,657,38,0.453,126,1235,The American
-Temple,485,590,52,0.453,121,1127,The American
 Northwestern,554,677,44,0.452,132,1275,Big Ten
 Florida Atlantic,108,133,0,0.448,19,241,C-USA
 New Mexico,490,613,31,0.446,121,1134,Mountain West
 South Alabama,61,76,0,0.445,11,137,Sun Belt
-UTSA,52,66,0,0.441,9,118,C-USA
+Texas-San Antonio,52,66,0,0.441,9,118,C-USA
 Eastern Michigan,468,606,47,0.438,128,1121,MAC
 Rice,477,629,32,0.433,108,1138,C-USA
 Buffalo,394,534,28,0.427,106,956,MAC
@@ -123,9 +121,9 @@ Indiana,498,686,44,0.423,132,1228,Big Ten
 Louisiana-Monroe,315,438,8,0.419,69,761,Sun Belt
 Wake Forest,469,669,33,0.415,118,1171,ACC
 New Mexico State,435,649,30,0.404,123,1114,Independent
-UTEP,395,612,30,0.395,102,1037,C-USA
-UNLV?11,236,364,4,0.394,52,604,Mountain West
+Texas-El Paso,395,612,30,0.395,102,1037,C-USA
+Nevada-Las Vegas,236,364,4,0.394,52,604,Mountain West
 Kent State,353,570,28,0.386,97,951,MAC
-FIU,79,143,0,0.356,18,222,C-USA
+Florida International,79,143,0,0.356,18,222,C-USA
 Charlotte,34,62,0,0.354,9,96,C-USA
 Georgia State,42,87,0,0.326,10,129,Sun Belt
