@@ -25,14 +25,14 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Brown University,The Ivy League,Football,RI,95,
 2014,Bryant University,Northeast Conference,Football,RI,94,83
 2014,Bucknell University,Patriot League,Football,PA,94,77
-2014,"University at Buffalo, the State University of New York",Mid-American Conference,Football,NY,86,69
+2014,Buffalo,Mid-American Conference,Football,NY,86,69
 2014,Butler University,Pioneer Football League,Football,IN,88,
 2014,California Polytechnic State University,Big Sky Conference,Football,CA,86,70
-2014,"California State University, Fresno",Mountain West Conference,Football,CA,69,58
+2014,Fresno State,Mountain West Conference,Football,CA,69,58
 2014,"California State University, Sacramento",Big Sky Conference,Football,CA,64,41
-2014,"University of California, Berkeley",Pac-12 Conference,Football,CA,84,76
+2014,California,Pac-12 Conference,Football,CA,84,76
 2014,"University of California, Davis",Big Sky Conference,Football,CA,87,83
-2014,"University of California, Los Angeles",Pac-12 Conference,Football,CA,71,54
+2014,UCLA,Pac-12 Conference,Football,CA,71,54
 2014,Campbell University,Big South Conference,Football,NC,88,77
 2014,Central Connecticut State University,Northeast Conference,Football,CT,65,52
 2014,University of Central Florida,American Athletic Conference,Football,FL,82,68
@@ -45,7 +45,7 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Colorado State University,Mountain West Conference,Football,CO,80,76
 2014,"University of Colorado, Boulder",Pac-12 Conference,Football,CO,77,56
 2014,Columbia University-Barnard College,The Ivy League,Football,NY,99,
-2014,University of Connecticut,Independent,Football,CT,89,78
+2014,University of Connecticut,AAC,Football,CT,89,78
 2014,Cornell University,The Ivy League,Football,NY,97,
 2014,Dartmouth College,The Ivy League,Football,NH,100,
 2014,Davidson College,Pioneer Football League,Football,NC,92,
@@ -100,7 +100,7 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Lamar University,Southland Conference,Football,TX,68,53
 2014,Lehigh University,Patriot League,Football,PA,84,78
 2014,Liberty University,Independent,Football,VA,67,50
-2014,Louisiana State University,Southeastern Conference,Football,LA,61,28
+2014,LSU,Southeastern Conference,Football,LA,61,28
 2014,Louisiana Tech University,Conference USA,Football,LA,63,48
 2014,University of Louisville,Atlantic Coast Conference,Football,KY,93,82
 2014,University of Maine,Colonial Athletic Association,Football,ME,82,74
@@ -171,7 +171,7 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Rice University,Conference USA,Football,TX,91,88
 2014,University of Richmond,Colonial Athletic Association,Football,VA,93,83
 2014,Robert Morris University,Horizon League,Football,PA,71,41
-2014,"Rutgers, The State University of New Jersey, New Brunswick",Big Ten Conference,Football,NJ,71,55
+2014,Rutgers,Big Ten Conference,Football,NJ,71,55
 2014,Sacred Heart University,Northeast Conference,Football,CT,84,68
 2014,Saint Francis University (Pennsylvania),Northeast Conference,Football,PA,75,59
 2014,Sam Houston State University,Southland Conference,Football,TX,56,59
@@ -201,7 +201,6 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Stetson University,Pioneer Football League,Football,FL,83,
 2014,Stony Brook University,Colonial Athletic Association,Football,NY,84,60
 2014,Syracuse University,Atlantic Coast Conference,Football,NY,88,76
-2014,Temple University,American Athletic Conference,Football,PA,89,73
 2014,Tennessee State University,Ohio Valley Conference,Football,TN,63,41
 2014,Tennessee Technological University,Ohio Valley Conference,Football,TN,75,60
 2014,University of Tennessee at Chattanooga,Southern Conference,Football,TN,80,60
@@ -211,7 +210,7 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Texas Christian University,Big 12 Conference,Football,TX,70,57
 2014,Texas Southern University,Southwestern Athletic Conf.,Football,TX,82,56
 2014,Texas Tech University,Big 12 Conference,Football,TX,76,52
-2014,University of Texas at Austin,Big 12 Conference,Football,TX,79,62
+2014,Texas,Big 12 Conference,Football,TX,79,62
 2014,University of Texas at El Paso,Conference USA,Football,TX,85,63
 2014,University of Texas at San Antonio,Conference USA,Football,TX,83,62
 2014,University of Toledo,Mid-American Conference,Football,OH,87,67
@@ -220,8 +219,8 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Tulane University,American Athletic Conference,Football,LA,87,76
 2014,The University of Tulsa,American Athletic Conference,Football,OK,69,64
 2014,U.S. Air Force Academy,Mountain West Conference,Football,CO,89,
-2014,U.S. Military Academy,Independent,Football,NY,71,
-2014,U.S. Naval Academy,American Athletic Conference,Football,MD,89,
+2014,Army,Independent,Football,NY,71,
+2014,Navy,American Athletic Conference,Football,MD,89,
 2014,Utah State University,Mountain West Conference,Football,UT,89,68
 2014,University of Utah,Pac-12 Conference,Football,UT,90,69
 2014,Valparaiso University,Pioneer Football League,Football,IN,83,
@@ -249,9 +248,6 @@ Cohort Year,School,Conference,Sport,State,GSR,FGR
 2014,Elon University,Colonial Athletic Association,Football,NC,98,83
 2014,Gardner-Webb University,Big South Conference,Football,NC,78,63
 2014,Kennesaw State University,Big South Conference,Football,GA,71,62
-2014,Presbyterian College,Independent,Football,SC,82,66
-2014,Tarleton State University,Independent,Football,TX,50,45
 2014,"University of Arkansas, Pine Bluff",Southwestern Athletic Conf.,Football,AR,68,44
 2014,University of the Incarnate Word,Southland Conference,Football,TX,83,63
 2014,Wofford College,Southern Conference,Football,SC,92,81
-2014,Dixie State University,Independent,Football,UT,49,28
