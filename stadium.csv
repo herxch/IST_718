@@ -7,7 +7,7 @@ Neyland Stadium,Tennessee,SEC,"102,521",1921
 Bryant Denny Stadium,Alabama,SEC,"101,821",1929
 Tiger Stadium,LSU,SEC,"100,500",1924
 Royal Memorial Stadium,Texas,Big 12,"100,119",1924
-Los Angeles Coliseum,USC,Pac 12,"93,607",1923
+Los Angeles Coliseum,Southern California,Pac 12,"93,607",1923
 Sanford Stadium,Georgia,SEC,"92,746",1929
 Memorial Stadium,Nebraska,Big Ten,"92,000",1923
 Rose Bowl,UCLA,Pac 12,"89,702",1921
@@ -18,7 +18,7 @@ Doak Campbell Stadium,Florida State,ACC,"82,300",1950
 Memorial Stadium,Clemson,ACC,"81,500",1942
 Camp Randall Stadium,Wisconsin,Big Ten,"80,321",1917
 Williams Brice Stadium,South Carolina,SEC,"80,250",1934
-Notre Dame Stadium,Notre Dame,Independent,"77,622",1930
+Notre Dame Stadium,Notre Dame,ind,"77,622",1930
 Spartan Stadium,Michigan State,Big Ten,"75,005",1923
 Razorback Stadium,Arkansas,SEC,"72,000",1938
 Legion Field,UAB,CUSA,"71,594",1927
@@ -34,7 +34,7 @@ Heinz Field,Pittsburgh,ACC,"65,500",2001
 Hard Rock Stadium,Miami,ACC,"65,236",1987
 Alamodome,UTSA,CUSA,"65,000",1993
 Davis Wade Stadium,Mississippi State,SEC,"64,038",1914
-LaVell Edwards Stadium,BYU,Independent,"63,725",1965
+LaVell Edwards Stadium,BYU,ind,"63,725",1965
 Kenan Stadium,North Carolina,ACC,"62,980",1927
 Memorial Stadium,California,Pac 12,"62,717",1923
 Ross Ade Stadium,Purdue,Big Ten,"62,500",1924
@@ -84,7 +84,7 @@ Rentschler Field,Connecticut,AAC,"40,000",2003
 TDECU Stadium,Houston,AAC,"40,000",2014
 Dreamstyle Stadium,New Mexico,Mountain West,"39,224",1960
 Joan Edwards Stadium,Marshall,CUSA,"38,019",1991
-Michie Stadium,Army,Independent,"38,000",1924
+Michie Stadium,Army,ind,"38,000",1924
 Albertsons Stadium,Boise State,Mountain West,"37,000",1970
 Sam Boyd Stadium,UNLV,Mountain West,"36,800",1971
 Roberts Stadium,Southern Miss,CUSA,"36,000",1932
@@ -126,7 +126,7 @@ Georgia State Stadium,Georgia State,Sun Belt,"23,000",1996
 Scheumann Stadium,Ball State,MAC,"22,500",1967
 LT Smith Stadium,Western Kentucky,CUSA,"22,113",1968
 Foreman Field,Old Dominion,CUSA,"20,118",1936
-McGuirk Stadium,UMass,Independent,"17,000",1965
+McGuirk Stadium,UMass,ind,"17,000",1965
 Kibbie Dome,Idaho,Sun Belt,"16,000",1975
 Jerry Richardson Stadium,UNC Charlotte,CUSA,"15,314",2013
 Brooks Stadium,Coastal Carolina,Sun Belt,"15,000",2003
